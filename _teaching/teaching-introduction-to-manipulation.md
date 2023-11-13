@@ -4,6 +4,7 @@ collection: teaching
 type: "Graduate Course"
 permalink: /teaching/teaching-introduction-to-manipulation
 venue: "University of Michigan, Robotics"
+term: "Fall 2020 & Fall 2021"
 date: 2020-09-01
 location: "Ann Arbor, MI, USA"
 ---

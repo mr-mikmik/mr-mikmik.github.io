@@ -4,6 +4,7 @@ collection: teaching
 type: "Graduate course"
 permalink: /teaching/robo-learning-for-planning-and-control
 venue: "University of Michigan, Robotics"
+term: "Winter 2023"
 date: 2023-01-01
 location: "Ann Arbor, MI, USA"
 ---
