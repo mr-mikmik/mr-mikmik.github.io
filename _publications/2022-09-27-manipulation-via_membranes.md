@@ -7,6 +7,7 @@ date: 2022-09-27
 venue: '6th Conference on Robotic Learning (CoRL 2022)'
 paperurl: 'https://arxiv.org/pdf/2209.13432.pdf'
 citation: '<b>Oller, M. </b>, i Lisbona, M. P., Berenson, D., & Fazeli, N. . (2022). &quot; "Manipulation via Membranes: High-Resolution and Highly Deformable Tactile Sensing and Control". &quot; <i>CoRL 2022 1</i>.'
+image: "/images/bubble_pivoting_optimized-2.gif"
 ---
 
 ![Manipulation via Membranes](/images/bubble_pivoting_optimized-2.gif)

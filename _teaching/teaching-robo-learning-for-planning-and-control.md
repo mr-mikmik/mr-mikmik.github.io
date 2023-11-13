@@ -7,6 +7,7 @@ venue: "University of Michigan, Robotics"
 term: "Winter 2023"
 date: 2023-01-01
 location: "Ann Arbor, MI, USA"
+image: "/images/block_pushing.gif"
 ---
 
 An introduction to modern machine learning methods for control and planning in robotics. 
@@ -14,3 +15,5 @@ Topics include function approximation, learning dynamics, using learned dynamics
 Students implement the above learning algorithms on robots in simulation.
 
 Course website: [https://robolearnplanning.github.io/](https://berenson.robotics.umich.edu/courses/winter2023robotlearning/index.html)
+
+![Robot Pushing](/images/block_pushing.gif)

@@ -10,6 +10,7 @@ date: 2019-01-30
 venue: 'Science Robotics'
 paperurl: 'https://www.science.org/doi/full/10.1126/scirobotics.aav3123'
 citation: 'Fazeli, N., <b>Oller, M. </b>, Wu, J., Wu, Z., Tenenbaum, J. B., & Rodriguez, A. (2019). &quot;See, feel, act: Hierarchical learning for complex manipulation skills with multisensory fusion.&quot; <i>Science Robotics</i>.'
+image: "/images/jenga.gif"
 ---
 
 This work proposes a methodology for a robot to learn complex manipulation skills, exemplified by playing Jenga, by emulating hierarchical reasoning and multisensory fusion. 

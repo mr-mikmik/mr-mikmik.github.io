@@ -5,6 +5,7 @@ permalink: /publication/2023-08-30-tactile-vad
 excerpt: 'Our paper introduces TactileVAD, a decoder-only control method that resolves tactile geometric aliasing, improving performance and reliability in touch-based manipulation across various tactile sensors.'
 date: 2023-08-30
 venue: '7th Conference on Robotic Learning (CoRL 2023)'
+image: "/images/tactile_cartpole_speedup_lowres.gif"
 paperurl: 'https://openreview.net/pdf?id=FefFLN5FvIM'
 citation: '<b>Oller, M. </b>, Berenson, D., & Fazeli, N. (2023). &quot; "TactileVAD: Geometric Aliasing-Aware Dynamics for High-Resolution Tactile Control". &quot; <i>CoRL 2023 1</i>.'
 ---
