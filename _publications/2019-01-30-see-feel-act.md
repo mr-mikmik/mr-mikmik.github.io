@@ -2,10 +2,7 @@
 title: "See, feel, act: Hierarchical learning for complex manipulation skills with multisensory fusion"
 collection: publications
 permalink: /publication/2019-01-30-see-feel-act
-excerpt: 'This work proposes a methodology for a robot to learn complex manipulation skills, exemplified by playing Jenga, by emulating hierarchical reasoning and multisensory fusion. 
-The approach involves formulating game mechanics using a temporal hierarchical Bayesian model, capturing latent structures in force and visual domains. 
-The robot then uses these learned representations to infer block behavior patterns and states, adjusting its actions and strategy similar to human gameplay. 
-The method demonstrates fidelity in a real-world implementation compared to standard baselines.'
+excerpt: 'This work introduces a methodology for robots to learn complex manipulation skills, such as playing Jenga, by emulating hierarchical reasoning and multisensory fusion through a temporal hierarchical Bayesian model. By leveraging learned tactile and visual representations, the robot adapts its actions and strategies similar to human gameplay.'
 date: 2019-01-30
 venue: 'Science Robotics'
 paperurl: 'https://www.science.org/doi/full/10.1126/scirobotics.aav3123'

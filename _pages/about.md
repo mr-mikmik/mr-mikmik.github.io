@@ -36,6 +36,7 @@ Some recent highlights from our research:
   <a href="/publication/2022-09-27-manipulation-via_membranes"><img src="/images/projects/bubble_pivoting_optimized-2.gif" width="210" style="border-radius:5%"/></a>
 </p>
 
+[Show more research](/publications)
 
 <!-- ![Tactile-Driven Non-Prehensile Object Manipulation via Extrinsic Contact Mode Control](/images/projects/tactile_cartpole_speedup_lowres.gif)
 ![Tactile-Driven Non-Prehensile Object Manipulation via Extrinsic Contact Mode Control](/images/projects/extrinsic_pivoting.gif)
