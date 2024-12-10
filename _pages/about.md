@@ -8,8 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-👨🏻‍💻 I'm a fourth year robotics PhD student at University of Michigan.
+👨🏻‍💻 I'm a fifth year robotics PhD student at University of Michigan in the [MMINT Lab](https://mmintlab.com), where I work under the guidance of [Prof. Nima Fazeli](https://www.mmintlab.com/people/nima-fazeli/).
 
-🔬 My research interests are in robotic manipulation!
+🔬 My research focuses on tactile-based manipulation, combining learning, optimization, and controls to enable robots to interact more intelligently and effectively with their environments.
 
-I am happy to be part of the [MMINT Lab](https://mmintlab.com) advised by [Prof. Nima Fazeli](https://www.mmintlab.com/people/nima-fazeli/).
+🎓 As I approach graduation (March 2025), I'm excited to explore opportunities to apply my skills and advance robotics research. These days, I'm particularly interested in using tactile sensing for dexterous conctact-rich robotic manipulation.
+
+
+# Highlights
+
+Some recent highlights from our research:
+
