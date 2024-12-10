@@ -19,3 +19,24 @@ redirect_from:
 
 Some recent highlights from our research:
 
+<!-- <p float="left">
+  <a href="/publication/2023-08-30-tactile-vad"><img src="/images/projects/tactile_cartpole_speedup_lowres.gif" width="330" /></a>
+  <a href="/publication/2022-09-27-manipulation-via_membranes"><img src="/images/projects/bubble_pivoting_optimized-2.gif" width="253" /></a>
+</p> -->
+
+<!-- <p float="left">
+  <a href="/publication/2023-08-30-tactile-vad"><img src="/images/projects/tactile_cartpole_speedup_lowres.gif" width="240" /></a>
+  <a href="/publication/2022-09-27-manipulation-via_membranes"><img src="/images/projects/bubble_pivoting_optimized-2.gif" width="184" /></a>
+  <a href="/publication/2024-02-30-tactile-nonprehensile"><img src="/images/projects/extrinsic_pivoting_cropped.gif" width="122"/></a>
+</p> -->
+
+<p float="left">
+  <a href="/publication/2023-08-30-tactile-vad"><img src="/images/projects/tactile_cartpole_cropped.gif" width="240" /></a>
+  <a href="/publication/2024-02-30-tactile-nonprehensile"><img src="/images/projects/extrinsic_pivoting_cropped.gif" width="140"/></a>
+  <a href="/publication/2022-09-27-manipulation-via_membranes"><img src="/images/projects/bubble_pivoting_optimized-2.gif" width="210" /></a>
+</p>
+
+
+<!-- ![Tactile-Driven Non-Prehensile Object Manipulation via Extrinsic Contact Mode Control](/images/projects/tactile_cartpole_speedup_lowres.gif)
+![Tactile-Driven Non-Prehensile Object Manipulation via Extrinsic Contact Mode Control](/images/projects/extrinsic_pivoting.gif)
+![Tactile-Driven Non-Prehensile Object Manipulation via Extrinsic Contact Mode Control](/images/projects/bubble_pivoting_optimized-2.gif) -->
