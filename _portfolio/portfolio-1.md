@@ -4,4 +4,4 @@ excerpt: "Short description of portfolio item number 1<br/><img src='/images/tac
 collection: portfolio
 ---
 Benchmarking setup for tactile control.
-![Tactile Cartpole](/images/tactile_cartpole_speedup_lowres.gif)
+![Tactile Cartpole](/images/projects/tactile_cartpole_speedup_lowres.gif)
