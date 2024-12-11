@@ -7,3 +7,15 @@ You can see this web live at [https://mr-mikmik.github.io/](https://mr-mikmik.gi
 To deploy locally, run `bundle exec jekyll serve` in the terminal.
 
 For more info, check out the [GitHub Pages Testing](hhttps://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/testing-your-github-pages-site-locally-with-jekyll) that helped me set this up.
+
+
+
+Guide for edtion:
+
+* `_pages` include the base page layout for:
+    * `about.md` -- main page (landing)
+    * `cv.md` -- cv page
+    * `publications.md` -- publication page
+* For new publications, make a new `.md` file in `_publications`
+    * Same for teaching (`_teaching`), talks (`_talks`),...
+* 
