@@ -12,7 +12,8 @@ citation: 'Fazeli, N., <b>Oller, M. </b>, Wu, J., Wu, Z., Tenenbaum, J. B., & Ro
 image: "/images/projects/jenga.gif"
 ---
 
-![See, feel, act: Hierarchical learning for complex manipulation skills with multisensory fusion](/images/projects/jenga.gif)
+<!-- ![See, feel, act: Hierarchical learning for complex manipulation skills with multisensory fusion](/images/projects/jenga.gif) -->
+<img src="{{ page.image }}" alt="{{ page.title }}" style="border-radius: 20px; width:80%;">
 
 
 This work proposes a methodology for a robot to learn complex manipulation skills, exemplified by playing Jenga, by emulating hierarchical reasoning and multisensory fusion. 
@@ -20,7 +21,7 @@ The approach involves formulating game mechanics using a temporal hierarchical B
 The robot then uses these learned representations to infer block behavior patterns and states, adjusting its actions and strategy similar to human gameplay. 
 The method demonstrates fidelity in a real-world implementation compared to standard baselines.
 
-[Download paper here](https://www.science.org/doi/pdf/10.1126/scirobotics.aav3123)
+[Download paper here]({{page.paperurl}})
 
 <!-- [//]: # (Recommended citation: Your Name, You. &#40;2009&#41;. "Paper Title Number 1." <i>Journal 1</i>. 1&#40;1&#41;.)
 Recommended citation: Fazeli, N., Oller, M., Wu, J., Wu, Z., Tenenbaum, J. B., & Rodriguez, A. (2019). See, feel, act: Hierarchical learning for complex manipulation skills with multisensory fusion. Science Robotics, 4(26), eaav3123 -->
