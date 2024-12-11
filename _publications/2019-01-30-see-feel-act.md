@@ -6,6 +6,8 @@ excerpt: 'This work introduces a methodology for robots to learn complex manipul
 date: 2019-01-30
 venue: 'Science Robotics'
 paperurl: 'https://www.science.org/doi/full/10.1126/scirobotics.aav3123'
+authors: 'Nima Fazeli, <b>Miquel Oller</b>, Jiajun Wu, Zheng Wu, J. B. Tenenbaum, Alberto Rodriguez'
+# authors: 'Nima Fazeli, <b>Miquel Oller</b>, Jiajun Wu, Zheng Wu, Tenenbaum, J. B., Rodriguez, A.'
 citation: 'Fazeli, N., <b>Oller, M. </b>, Wu, J., Wu, Z., Tenenbaum, J. B., & Rodriguez, A. &quot;See, feel, act: Hierarchical learning for complex manipulation skills with multisensory fusion.&quot; <i>Science Robotics</i> (2019).'
 image: "/images/projects/jenga.gif"
 ---

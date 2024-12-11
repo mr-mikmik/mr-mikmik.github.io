@@ -3,11 +3,13 @@ title: "Tactile-Driven Non-Prehensile Object Manipulation via Extrinsic Contact 
 collection: publications
 permalink: /publication/2024-02-30-tactile-nonprehensile
 excerpt: 'We consider the problem of non-prehensile manipulation with highly compliant and high-resolution tactile sensors. Our approach considers contact mechanics and sensor dynamics to achive desired object poses and transmitted forces and is amenable for gradient-based optimization.'
-date: 2023-08-30
-venue: 'Robotic Science and Systems (RSS), 2024'
+date: 2024-02-30
+venue: 'Robotic Science and Systems (RSS)'
 image: "/images/projects/extrinsic_pivoting_cropped.gif"
 paperurl: 'https://arxiv.org/abs/2405.18214'
-citation: '<b>Oller, M. </b>, Berenson, D., & Fazeli, N. &quot; "Tactile-Driven Non-Prehensile Object Manipulation via Extrinsic Contact Mode Control". &quot; <i>RSS 2024</i>.'
+# authors: '<b>Oller, M. </b>, Berenson, D., Fazeli, N.'
+authors: '<b>Miquel Oller</b>, Dmitry Berenson, Nima Fazeli'
+citation: '<b>Oller, M. </b>, Berenson, D., & Fazeli, N., "Tactile-Driven Non-Prehensile Object Manipulation via Extrinsic Contact Mode Control", <i>RSS 2024</i>.'
 ---
 
 

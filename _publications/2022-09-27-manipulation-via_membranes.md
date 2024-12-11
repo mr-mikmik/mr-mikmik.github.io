@@ -4,8 +4,10 @@ collection: publications
 permalink: /publication/2022-09-27-manipulation-via_membranes
 excerpt: 'Our method learns soft tactile sensor membrane deformation dynamics to control a grasped object’s pose and force transmitted to the environment during contact-rich manipulation tasks such as drawing and in-hand pivoting.'
 date: 2022-09-27
-venue: '6th Conference on Robotic Learning (CoRL 2022)'
+venue: '6th Conference on Robotic Learning (CoRL)'
 paperurl: 'https://arxiv.org/pdf/2209.13432.pdf'
+# authors: '<b>Oller, M. </b>, i Lisbona, M. P., Berenson, D., & Fazeli, N.'
+authors: '<b>Miquel Oller</b>, Mireia Planas, Dmitry Berenson, Nima Fazeli'
 citation: '<b>Oller, M. </b>, i Lisbona, M. P., Berenson, D., & Fazeli, N. &quot; "Manipulation via Membranes: High-Resolution and Highly Deformable Tactile Sensing and Control". &quot; <i>CoRL 2022 </i>.'
 image: "/images/projects/bubble_pivoting_optimized-2.gif"
 ---

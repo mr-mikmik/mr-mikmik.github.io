@@ -7,7 +7,8 @@ date: 2024-08-30
 venue: 'Under Review'
 image: "/images/projects/tactile_neural_derendering.png"
 paperurl: 'https://arxiv.org/abs/2409.13923'
-citation: 'J.A. Eyzaguirre, <b>Oller, M. </b>, & Fazeli, N. &quot; "Tactile Neural De-rendering". &quot; <i>2024</i>.'
+authors: 'J.A. Eyzaguirre, <b>Miquel Oller</b>, Nima Fazeli'
+citation: "{{ authors }} &quot;{{ title }}&quot;.<i> {{venue}} {{ date | date: '%Y' }}</i>."
 ---
 
 
