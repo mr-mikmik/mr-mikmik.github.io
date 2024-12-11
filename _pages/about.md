@@ -31,9 +31,9 @@ Some recent highlights from our research:
 </p> -->
 
 <p float="left">
-  <a href="/publication/2023-08-30-tactile-vad"><img src="/images/projects/tactile_cartpole_cropped.gif" width="240" style="border-radius:5%" /></a>
-  <a href="/publication/2024-02-30-tactile-nonprehensile"><img src="/images/projects/extrinsic_pivoting_cropped.gif" width="140" style="border-radius:5%"/></a>
-  <a href="/publication/2022-09-27-manipulation-via_membranes"><img src="/images/projects/bubble_pivoting_optimized-2.gif" width="210" style="border-radius:5%"/></a>
+  <a href="/publication/2023-08-30-tactile-vad"><img src="/images/projects/tactile_cartpole_cropped.gif" width="280" style="border-radius:5%" /></a>
+  <a href="/publication/2024-02-30-tactile-nonprehensile"><img src="/images/projects/extrinsic_pivoting_cropped.gif" width="168" style="border-radius:5%"/></a>
+  <a href="/publication/2022-09-27-manipulation-via_membranes"><img src="/images/projects/bubble_pivoting_optimized-2.gif" width="252" style="border-radius:5%"/></a>
 </p>
 
 [Show more research](/publications)
