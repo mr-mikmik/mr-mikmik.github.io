@@ -35,17 +35,22 @@
   border-bottom: 1px solid $border-color;
 
   + .list__item .archive__item-title {
+    // margin-top: 300em;
     margin-top: 0.5em;
   }
 }
 
 .archive__item-title {
-  margin-bottom: 0.25em;
+  margin-bottom: 0.0em;
   font-family: $sans-serif-narrow;
 
   a + a {
     opacity: 0.5;
   }
+}
+
+.archive__item-list {
+  margin-top: -1.7em;
 }
 
 /* remove border*/
