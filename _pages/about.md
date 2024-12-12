@@ -18,25 +18,6 @@ redirect_from:
 
 # Highlights
 
-
-<!-- <p float="left">
-  <a href="/publication/2023-08-30-tactile-vad"><img src="/images/projects/tactile_cartpole_cropped.gif" width="280" style="border-radius:5%" /></a>
-  <a href="/publication/2024-02-30-tactile-nonprehensile"><img src="/images/projects/extrinsic_pivoting_cropped.gif" width="168" style="border-radius:5%"/></a>
-  <a href="/publication/2022-09-27-manipulation-via_membranes"><img src="/images/projects/bubble_pivoting_optimized-2.gif" width="252" style="border-radius:5%"/></a>
-</p> -->
-
-<!-- <p style="float: left;">
-  <a href="/publication/2023-08-30-tactile-vad">
-    <img src="/images/projects/tactile_cartpole_cropped.gif" width="280" style="border-radius:5%; cursor: pointer; transition: transform 0.2s ease-in-out;" />
-  </a>
-  <a href="/publication/2024-02-30-tactile-nonprehensile">
-    <img src="/images/projects/extrinsic_pivoting_cropped.gif" width="168" style="border-radius:5%; cursor: pointer; transition: transform 0.2s ease-in-out;" />
-  </a>
-  <a href="/publication/2022-09-27-manipulation-via_membranes">
-    <img src="/images/projects/bubble_pivoting_optimized-2.gif" width="252" style="border-radius:5%; cursor: pointer; transition: transform 0.2s ease-in-out;" />
-  </a>
-</p> -->
-
 <p style="float: left; position: relative; margin-right: 5px;">
   <a href="/publication/2023-08-30-tactile-vad">
     <img src="/images/projects/tactile_cartpole_cropped.gif" width="280" style="border-radius:5%; cursor: pointer; transition: transform 0.2s ease-in-out;"/>
@@ -58,24 +39,6 @@ redirect_from:
   </a>
 </p>
 
-
-<!-- <style>
-  a img:hover {
-    transform: scale(1.1);
-  }
-  .image-text {
-    position: absolute;
-    bottom: 10px;
-    left: 50%;
-    transform: translateX(-50%);
-    background-color: rgba(0, 0, 0, 0.6);
-    color: white;
-    padding: 5px 10px;
-    border-radius: 5px;
-    display: none;
-    font-size: 14px;
-  }
-</style> -->
 
 <style>
   /* Hover effect for enlarging the image */
@@ -118,12 +81,6 @@ redirect_from:
 </style>
 
 
-<!-- ![Tactile-Driven Non-Prehensile Object Manipulation via Extrinsic Contact Mode Control](/images/projects/tactile_cartpole_speedup_lowres.gif)
-![Tactile-Driven Non-Prehensile Object Manipulation via Extrinsic Contact Mode Control](/images/projects/extrinsic_pivoting.gif)
-![Tactile-Driven Non-Prehensile Object Manipulation via Extrinsic Contact Mode Control](/images/projects/bubble_pivoting_optimized-2.gif) -->
-
-<!-- Button to toggle content -->
-<!-- <button onclick="toggleContent()" style="margin-top: 1em;">Show More Research Projects</button> -->
 <!-- Button to toggle content -->
 <div style="text-align: center; margin-top: 1em;">
   <button 
