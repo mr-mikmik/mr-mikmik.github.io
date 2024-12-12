@@ -36,8 +36,53 @@ Some recent highlights from our research:
   <a href="/publication/2022-09-27-manipulation-via_membranes"><img src="/images/projects/bubble_pivoting_optimized-2.gif" width="252" style="border-radius:5%"/></a>
 </p>
 
-[Show more research](/publications)
 
 <!-- ![Tactile-Driven Non-Prehensile Object Manipulation via Extrinsic Contact Mode Control](/images/projects/tactile_cartpole_speedup_lowres.gif)
 ![Tactile-Driven Non-Prehensile Object Manipulation via Extrinsic Contact Mode Control](/images/projects/extrinsic_pivoting.gif)
 ![Tactile-Driven Non-Prehensile Object Manipulation via Extrinsic Contact Mode Control](/images/projects/bubble_pivoting_optimized-2.gif) -->
+
+<!-- Button to toggle content -->
+<!-- <button onclick="toggleContent()" style="margin-top: 1em;">Show More Research Projects</button> -->
+<!-- Button to toggle content -->
+<div style="text-align: center; margin-top: 1em;">
+  <button 
+    onclick="toggleContent()" 
+    style="
+      background-color: #007BFF; 
+      color: white; 
+      padding: 15px 30px; 
+      font-size: 18px; 
+      border: none; 
+      border-radius: 25px; 
+      cursor: pointer;
+      box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);"
+  >
+    Show More Research Projects
+  </button>
+</div>
+
+<!-- Content to toggle -->
+<div id="moreContent" style="display: none; margin-top: 1em;">
+  <h1> Publications </h1>
+  
+  {% include base_path %}
+
+  {% for post in site.publications reversed %}
+    {% include archive-single-publication.html %}
+  {% endfor %}
+</div>
+
+<script>
+  function toggleContent() {
+    const content = document.getElementById("moreContent");
+    const button = event.target;
+
+    if (content.style.display === "none") {
+      content.style.display = "block";
+      button.innerText = "Show Less";
+    } else {
+      content.style.display = "none";
+      button.innerText = "Show More Research Projects";
+    }
+  }
+</script>
