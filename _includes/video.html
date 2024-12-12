@@ -1,0 +1,11 @@
+
+<div style="text-align: center; margin: 20px 0;">
+  {% if include.videourl %}
+  <video style="max-width: 100%; height: auto;" controls>
+    <source src="{{include.videourl}}" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+  {% else %}
+    <p>No video URL provided.</p>
+  {% endif %}
+</div>

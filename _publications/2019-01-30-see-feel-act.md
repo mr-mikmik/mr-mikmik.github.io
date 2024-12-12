@@ -10,6 +10,7 @@ authors: 'Nima Fazeli, <b>Miquel Oller</b>, Jiajun Wu, Zheng Wu, J. B. Tenenbaum
 # authors: 'Nima Fazeli, <b>Miquel Oller</b>, Jiajun Wu, Zheng Wu, Tenenbaum, J. B., Rodriguez, A.'
 citation: 'Fazeli, N., <b>Oller, M. </b>, Wu, J., Wu, Z., Tenenbaum, J. B., & Rodriguez, A. &quot;See, feel, act: Hierarchical learning for complex manipulation skills with multisensory fusion.&quot; <i>Science Robotics</i> (2019).'
 image: "/images/projects/jenga.gif"
+videoid: 'o1j_amoldMs'
 ---
 
 <!-- ![See, feel, act: Hierarchical learning for complex manipulation skills with multisensory fusion](/images/projects/jenga.gif) -->
@@ -20,6 +21,14 @@ This work proposes a methodology for a robot to learn complex manipulation skill
 The approach involves formulating game mechanics using a temporal hierarchical Bayesian model, capturing latent structures in force and visual domains. 
 The robot then uses these learned representations to infer block behavior patterns and states, adjusting its actions and strategy similar to human gameplay. 
 The method demonstrates fidelity in a real-world implementation compared to standard baselines.
+
+
+{% if page.videourl %}
+    {% include video.html videourl=page.videourl %}
+{% endif %}
+{% if page.videoid %}
+    {% include youtube.html videoid=page.videoid %}
+{% endif %}
 
 [Download paper here]({{page.paperurl}})
 
