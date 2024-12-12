@@ -36,7 +36,7 @@ redirect_from:
 <p style="float: left; position: relative;">
   <a href="/publication/2022-09-27-manipulation-via_membranes">
     <img src="/images/projects/bubble_pivoting_optimized-2.gif" width="252" style="border-radius:5%; cursor: pointer; transition: transform 0.2s ease-in-out;"/>
-    <span class="image-text">In-hand Pivoting</span>
+    <span class="image-text">In-hand Manipulation</span>
   </a>
 </p>
 
