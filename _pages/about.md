@@ -14,10 +14,10 @@ redirect_from:
 
 🎓 As I approach graduation (March 2025), I'm excited to explore opportunities to apply my skills and advance robotics research. These days, I'm particularly interested in using tactile sensing for dexterous conctact-rich robotic manipulation.
 
+🔍 I have also conducted research at [Mitsubishi Electric Research Laboratories (MERL)](https://mmintlab.com) and at [MCube Lab](https://mcube.mit.edu) at MIT.
 
 # Highlights
 
-Some recent highlights from our research:
 
 <!-- <p float="left">
   <a href="/publication/2023-08-30-tactile-vad"><img src="/images/projects/tactile_cartpole_speedup_lowres.gif" width="330" /></a>
