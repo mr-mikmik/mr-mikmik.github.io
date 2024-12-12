@@ -12,7 +12,8 @@ redirect_from:
 
 🔬 My research focuses on tactile-based manipulation, combining learning, optimization, and controls to enable robots to interact more intelligently and effectively with their environments.
 
-🎓 As I approach graduation (March 2025), I'm excited to explore opportunities to apply my skills and advance robotics research. These days, I'm particularly interested in using tactile sensing for dexterous conctact-rich robotic manipulation.
+<!-- 🎓 As I approach graduation (March 2025), I'm excited to explore opportunities to apply my skills and advance robotics research. These days, I'm particularly interested in using tactile sensing for dexterous conctact-rich robotic manipulation. -->
+🎓 Excited to be approaching graduation (March 2025) and eager to explore opportunities to push the boundaries of AI, machine learning, and robotics!
 
 🔍 I have also conducted research at [Mitsubishi Electric Research Laboratories (MERL)](https://mmintlab.com) and at [MCube Lab](https://mcube.mit.edu) at MIT.
 
