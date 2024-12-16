@@ -53,7 +53,46 @@ layout: default
             <p>{{ page.date | default: "1900-01-01" | date: "%Y" }}</p>
           {% endif %}
           {% if page.paperurl %}
-            <p style="margin-top: -0.1em; margin-bottom: 1.0em;"><a href="{{ page.paperurl }}"><u>{{ page.paperurl }}</u></a> </p>
+            <!-- <p style="margin-top: -0.1em; margin-bottom: 1.0em;"><a href="{{ page.paperurl }}"><u>{{ page.paperurl }}</u></a> </p> -->
+            <!-- <p style="margin-top: -0.1em; margin-bottom: 1.0em;">
+              <a href="{{ page.paperurl }}" style="text-decoration: none; color: #007BFF; border-bottom: 2px solid #007BFF; padding: 2px;">
+                View Paper
+              </a>
+            </p> -->
+            <!-- <p style="margin-top: -0.1em; margin-bottom: 1.0em; text-align: center;">
+              <a href="{{ page.paperurl }}" style="display: inline-block; text-decoration: none; background-color: #f6f6f6; border: 2px solid #e0e0e0; border-radius: 12px; width: 70%; height: 100px; text-align: center; line-height: 60px; box-shadow: 2px 2px 6px rgba(0, 0, 0, 0.1);">
+                <img src="https://cdn-icons-png.freepik.com/256/4902/4902990.png?semt=ais_hybrid" alt="ArXiv" style="width: auto; height: 70px; vertical-align: middle; horizontal-align: left">
+                View Paper
+              </a>
+            </p> -->
+            <p style="margin-top: -0.1em; margin-bottom: 1.0em; text-align: center;">
+              <a href="{{ page.paperurl }}" class="paper-button" style="
+                display: inline-flex;
+                align-items: center;
+                justify-content: flex-start;
+                text-decoration: none;
+                background-color: #f6f6f6;
+                border: 2px solid #e0e0e0;
+                border-radius: 12px;
+                width: 65%;
+                padding: 10px;
+                height: auto;
+                box-shadow: 2px 2px 6px rgba(0, 0, 0, 0.1);
+                transition: transform 0.2s, box-shadow 0.2s;">
+                <img src="https://cdn-icons-png.freepik.com/256/4902/4902990.png" 
+                     alt="ArXiv" 
+                     style="width: 80px; height: auto; margin-right: 15px;">
+                <span style="font-size: 1.2em; font-weight: bold; color: #333;">
+                  View Paper
+                </span>
+              </a>
+            </p>
+            <style>
+              .paper-button:hover {
+                  transform: scale(1.05);
+                  box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.15);
+              }
+              </style>
           {% endif %}
 
         {% else %}
