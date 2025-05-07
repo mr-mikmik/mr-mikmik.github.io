@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2024-07-01-touch2touch
 excerpt: 'The diversity of touch sensor designs complicates general-purpose tactile processing. We address this by training a diffusion model for cross-modal prediction, translating tactile signals between GelSlim and Soft Bubble sensors. This enables sensor-specific methods to be applied across sensor types.'
 date: 2024-07-01
-venue: 'Under Review'
+venue: 'Preprint'
 image: "/images/projects/touch2touch.gif"
 paperurl: 'https://www.arxiv.org/abs/2409.08269'
 website: 'https://www.mmintlab.com/research/touch2touch/'

@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2024-08-30-tactile-neural-derendering
 excerpt: 'We introduce Tactile Neural De-rendering, a novel approach that leverages a generative model to reconstruct a local 3D representation of an object based solely on its tactile signature.'
 date: 2024-08-30
-venue: 'Under Review'
+venue: 'Preprint'
 image: "/images/projects/tactile_neural_derendering.png"
 paperurl: 'https://arxiv.org/abs/2409.13923'
 website: 'https://www.mmintlab.com/research/tactile-neural-derendering/'

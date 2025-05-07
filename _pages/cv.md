@@ -11,10 +11,10 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Robotics, University of Michigan, Ann Arbor, MI, 2025 (expected)
+* Ph.D in Robotics, University of Michigan, Ann Arbor, MI, 2025
 * M.S. in Robotics, University of Michigan, Ann Arbor, MI, 2024
 * B.S. in EECS, Technical University of Catalonia (UPC), Barcelona, Spain, 2018
-* B.S. in Mechanical Engineering, Technical University of Catalonia (UPC), Barcelona, Spain 2018
+* B.S. in ME, Technical University of Catalonia (UPC), Barcelona, Spain 2018
 
 Work experience
 ======
@@ -36,7 +36,15 @@ Work experience
    -->
 
 <ul class="tight-list">
-  <li><strong>2020 - Present: Graduate Student Research Assistant</strong>
+<li><strong>April 2025 - Present: Postdoctoral Researcher</strong>
+    <ul>
+      <li>University of Michigan, Ann Arbor</li>
+      <li>Manipulation and Mechanisms Intelligence Laboratory <a href="https://www.mmintlab.com">MMINT</a></li>
+      <li>Supervisor: <a href="https://www.mmintlab.com/people/nima-fazeli/">Nima Fazeli</a></li>
+    </ul>
+  </li>
+
+  <li><strong>June 2020 - March 2025: Graduate Student Research Assistant</strong>
     <ul>
       <li>University of Michigan, Ann Arbor</li>
       <li>Manipulation and Mechanisms Intelligence Laboratory <a href="https://www.mmintlab.com">MMINT</a></li>

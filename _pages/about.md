@@ -8,12 +8,18 @@ redirect_from:
   - /about.html
 ---
 
-👨🏻‍💻 I'm a fifth year robotics PhD student at University of Michigan in the [MMINT Lab](https://mmintlab.com), where I work under the guidance of [Prof. Nima Fazeli](https://www.mmintlab.com/people/nima-fazeli/).
-
+<!-- 👨🏻‍💻 I'm a fifth year robotics PhD student at University of Michigan in the [MMINT Lab](https://mmintlab.com), where I work under the guidance of [Prof. Nima Fazeli](https://www.mmintlab.com/people/nima-fazeli/).
 🔬 My research focuses on tactile-based manipulation, combining learning, optimization, and controls to enable robots to interact more intelligently and effectively with their environments.
+🎓 Excited to be approaching graduation (March 2025) and eager to explore opportunities to push the boundaries of AI, machine learning, and robotics! -->
 
-<!-- 🎓 As I approach graduation (March 2025), I'm excited to explore opportunities to apply my skills and advance robotics research. These days, I'm particularly interested in using tactile sensing for dexterous conctact-rich robotic manipulation. -->
-🎓 Excited to be approaching graduation (March 2025) and eager to explore opportunities to push the boundaries of AI, machine learning, and robotics!
+👨🏻‍💻 I'm currently a Postdoctoral Researcher at University of Michigan in the [MMINT Lab](https://mmintlab.com), where I completed my PhD in Robotics under the guidance of [Prof. Nima Fazeli](https://www.mmintlab.com/people/nima-fazeli/).
+
+<!-- 🎓 Successfully defended my PhD in Robotics in March 2025. -->
+
+🔬 My research focuses on tactile-based manipulation, combining learning, optimization, and control to enable robots to interact more intelligently and effectively with their environments.
+
+<!-- 🚀 I'm eager to explore new opportunities to continue advancing research at the intersection of AI, machine learning, and robotics — particularly in areas involving dexterous, contact-rich manipulation. -->
+🚀 I'm eager to explore new opportunities to continue to push the boundaries of AI, machine learning, and robotics!
 
 🔍 I have also conducted research at [Mitsubishi Electric Research Laboratories (MERL)](https://merl.com) and at [MCube Lab](https://mcube.mit.edu) at MIT.
 
