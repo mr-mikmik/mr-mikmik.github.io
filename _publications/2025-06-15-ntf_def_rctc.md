@@ -6,8 +6,8 @@ excerpt: 'We present a hybrid learning and first-principles approach to model de
 date: 2025-06-15
 venue: 'Robotic and Automation Letters (RA-L)'
 image: "/images/projects/ntf_def_rig_ctc.gif"
-paperurl: 'https://arxiv.org/abs/2409.13923' # TODO: Update
-website: 'https://www.mmintlab.com/research/tactile-neural-derendering/' # TODO: Update
+paperurl: 'https://www.arxiv.org/abs/2505.10884'
+website: 'https://deform-rigid-contact.github.io'
 authors: 'Mark Van der Merwe, <b>Miquel Oller</b>, Dmitry Berenson, Nima Fazeli'
 citation: "{{ authors }} &quot;{{ title }}&quot;.<i> {{venue}} {{ date | date: '%Y' }}</i>."
 videoid: 'UV5dBaxj3Wc'
