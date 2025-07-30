@@ -5,7 +5,15 @@ collection: portfolio
 image: "/images/portfolio/planar_pushing_ppo_jax_opt.gif"
 ---
 
-<img src="{{ page.image }}" alt="{{ page.title }}" style="border-radius: 20px; width:65%;">
+<p style="float: center; position: relative; margin-right: 5px;">
+  <a>
+    <img src="{{ page.image }}" alt="{{ page.title }}" style="border-radius: 20px; cursor: pointer; transition: transform 0.2s ease-in-out; width: 70%"/>
+    <span class="image-text">Fast and Efficient Simulation Training with MuJoCo + JAX (30min)</span>
+  </a>
+</p>
+
+<div style="clear: both;"></div>
+
 
 We are developing reinforcement learning (RL) policies for contact-rich robotic manipulation tasks in simulation and transferring them effectively to the real world. Contact-rich interactions—such as sliding, pivoting, or insertion are especially challenging due to their sensitivity to dynamics and high precision requirements. By leveraging physics-based simulators, we train robust control policies and explore strategies for bridging the sim-to-real gap.
 
