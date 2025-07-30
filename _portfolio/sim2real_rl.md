@@ -5,9 +5,9 @@ collection: portfolio
 image: "/images/portfolio/planar_pushing_ppo_jax_opt.gif"
 ---
 
-<p style="float: center; position: relative; margin-right: 5px;">
+<p style="float: center; position: relative; margin-right: 5px; width:70%">
   <a>
-    <img src="{{ page.image }}" alt="{{ page.title }}" style="border-radius: 20px; cursor: pointer; transition: transform 0.2s ease-in-out; width: 70%"/>
+    <img src="{{ page.image }}" alt="{{ page.title }}" style="border-radius: 20px; cursor: pointer; transition: transform 0.2s ease-in-out; width: 100%"/>
     <span class="image-text">Fast and Efficient Simulation Training with MuJoCo + JAX (30min)</span>
   </a>
 </p>
@@ -20,7 +20,7 @@ We are developing reinforcement learning (RL) policies for contact-rich robotic 
 
 <p style="float: left; position: relative; margin-right: 5px;">
   <a>
-    <img src="/images/portfolio/isaac_sim_tacsl_training.gif" width="430" style="border-radius:5%; cursor: pointer; transition: transform 0.2s ease-in-out;"/>
+    <img src="/images/portfolio/isaac_sim_tacsl_training.gif" width="438" style="border-radius:5%; cursor: pointer; transition: transform 0.2s ease-in-out;"/>
     <span class="image-text">Large Scale Simulation RL Training</span>
   </a>
 </p>
