@@ -1,0 +1,52 @@
+{% include base_path %}
+
+{% if post.header.teaser %}
+  {% capture teaser %}{{ post.header.teaser }}{% endcapture %}
+{% else %}
+  {% assign teaser = site.teaser %}
+{% endif %}
+
+{% if post.id %}
+  {% assign title = post.title | markdownify | remove: "<p>" | remove: "</p>" %}
+{% else %}
+  {% assign title = post.title %}
+{% endif %}
+
+<div class="{{ include.type | default: "list" }}__item" style="margin-bottom: 0.1em">
+  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
+
+    <div style="display: flex; align-items: center; gap: 15px; max-width: 100%;">
+      <!-- Image Section -->
+      <div style="flex-shrink: 0;">
+        <a  href="{{ base_path }}{{ post.url }}"><img src="{{ post.image }}" alt="Post Image" style="width: 320px; height: auto; border-radius: 5%;"></a>
+      </div>
+    
+      <!-- Text Section -->
+      <div style="flex-grow: 1;">
+        <h2 class="archive__item-title" itemprop="headline">
+          {% if post.link %}
+            <a href="{{ post.link }}">{{ title }}</a> <a href="{{ base_path }}{{ post.url }}" rel="permalink"><i class="fa fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
+          {% else %}
+            <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
+          {% endif %}
+        </h2>
+
+        <!-- <p style="margin-top: 0.2em;">{{post.authors}}</p> -->
+        
+        <!-- <p style="margin-top: -1.2em; margin-bottom:-1.0em"> <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p> -->
+
+        {% if post.excerpt and site.read_more != 'enabled' %}
+          <p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</p>
+        {% elsif post.excerpt and site.read_more == 'enabled' %}
+          <p class="archive__item-excerpt" itemprop="description"><p>{{ post.excerpt | markdownify | remove: '<p>' | remove: '</p>' }}<strong><a href="{{ base_path }}{{ post.url }}" rel="permalink"> Read more</a></strong></p></p>
+        {% endif %}
+
+        {% if post.read_time %}
+        <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
+      {% endif %}
+
+      </div>
+    </div>
+
+  </article>
+</div>
