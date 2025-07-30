@@ -16,7 +16,7 @@ redirect_from:
 
 <!-- 🎓 Successfully defended my PhD in Robotics in March 2025. -->
 
-🔬 My research focus on manipulation and robot learning, where I have experience on visuo-tactile sensorimotor **perception** and **control**, **optimization**, **RL**, **representation learning**, and **world modeling**.
+🔬 My research focus on **manipulation** and **robot learning**, where I have experience on visuo-tactile sensorimotor **perception** and **control**, **optimization**, **RL**, **representation learning**, and **world modeling**.
 
 <!-- 🚀 I'm eager to explore new opportunities to continue advancing research at the intersection of AI, machine learning, and robotics — particularly in areas involving dexterous, contact-rich manipulation. -->
 🚀 I'm eager to explore new opportunities to continue to push the boundaries of AI, machine learning, and robotics!
@@ -87,7 +87,6 @@ redirect_from:
   }
 </style>
 
-<div style="clear: both;"></div>
 
 <!-- Button to toggle content -->
 <div style="text-align: center; margin-top: 1em;">
