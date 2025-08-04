@@ -40,11 +40,13 @@ redirect_from:
 </p>
 
 <p style="float: left; position: relative;">
-  <a href="/publication/2022-09-27-manipulation-via_membranes">
-    <img src="/images/projects/bubble_pivoting_optimized-2.gif" width="252" style="border-radius:5%; cursor: pointer; transition: transform 0.2s ease-in-out;"/>
-    <span class="image-text">In-hand Manipulation</span>
+  <a href="/publication/2025-08-01-cross-sensor-touch-generation">
+    <img src="/images/projects/t2d2/t2d2_bc.gif" width="320" style="border-radius:5%; cursor: pointer; transition: transform 0.2s ease-in-out;"/>
+    <span class="image-text">Cross-Sensor Touch Generation</span>
   </a>
 </p>
+
+<div style="clear: both;"></div>
 
 
 <style>
