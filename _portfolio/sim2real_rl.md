@@ -12,7 +12,12 @@ image: "/images/portfolio/planar_pushing_ppo_jax_opt.gif"
   </a>
 </p>
 
-<img src="/images/portfolio/panda_finray_box_pushing_real_world.gif" width="70%" style="border-radius:5%; cursor: pointer; transition: transform 0.2s ease-in-out;"/>
+<p style="float: center; position: relative; margin-right: 5px; width:70%">
+<a>
+<img src="/images/portfolio/panda_finray_box_pushing_real_world.gif" width="100%" style="border-radius:5%; cursor: pointer; transition: transform 0.2s ease-in-out;"/>
+<span class="image-text"> Zero-shot Real World Execution </span>
+</a>
+</p>
 
 <div style="clear: both;"></div>
 
