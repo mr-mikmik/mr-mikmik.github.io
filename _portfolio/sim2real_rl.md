@@ -12,6 +12,8 @@ image: "/images/portfolio/planar_pushing_ppo_jax_opt.gif"
   </a>
 </p>
 
+<img src="/images/portfolio/panda_finray_box_pushing_real_world.gif" width="70%" style="border-radius:5%; cursor: pointer; transition: transform 0.2s ease-in-out;"/>
+
 <div style="clear: both;"></div>
 
 
