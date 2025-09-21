@@ -7,7 +7,7 @@ date: 2025-09-01
 venue: 'Preprint'
 image: "/images/projects/cube_rotation.gif"
 paperurl: 'https://www.arxiv.org/abs/2509.13126'
-website: 'https://www.mr-mikmik.github.io/hydrosoft'
+website: 'https://mr-mikmik.github.io/hydrosoft'
 authors: '<b>Miquel Oller</b>, An Dang, Nima Fazeli'
 citation: "{{ authors }} &quot;{{ title }}&quot;.<i> {{venue}} {{ date | date: '%Y' }}</i>."
 videoid: '08qFhYQNAas'
