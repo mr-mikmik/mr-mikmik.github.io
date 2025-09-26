@@ -6,7 +6,7 @@ excerpt: 'We prenset a method for tansferring manipulation policies between diff
 date: 2025-08-01
 venue: '9th Conference on Robotic Learning (CoRL)'
 image: "/images/projects/t2d2/t2d2_bc.gif"
-paperurl: 'https://www.arxiv.org/abs/2409.08269'
+paperurl: 'https://openreview.net/pdf?id=oGcC8nMOit'
 website: 'https://www.mmintlab.com/research/touch2touch/'
 authors: 'Samanta Rodriguez, Yiming Dou, <b>Miquel Oller</b>, Andrew Owens, Nima Fazeli'
 citation: "{{ authors }} &quot;{{ title }}&quot;.<i> {{venue}} {{ date | date: '%Y' }}</i>."
