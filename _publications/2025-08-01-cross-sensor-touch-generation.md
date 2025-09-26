@@ -7,7 +7,7 @@ date: 2025-08-01
 venue: '9th Conference on Robotic Learning (CoRL)'
 image: "/images/projects/t2d2/t2d2_bc.gif"
 paperurl: 'https://openreview.net/pdf?id=oGcC8nMOit'
-website: 'https://www.mmintlab.com/research/touch2touch/'
+website: 'https://samantabelen.github.io/cross_sensor_touch_generation'
 authors: 'Samanta Rodriguez, Yiming Dou, <b>Miquel Oller</b>, Andrew Owens, Nima Fazeli'
 citation: "{{ authors }} &quot;{{ title }}&quot;.<i> {{venue}} {{ date | date: '%Y' }}</i>."
 videourl: 'https://www.mmintlab.com/wp-content/uploads/2024/07/Touch2Touch-CoRL_2024_video.mp4'
@@ -24,3 +24,8 @@ The effectiveness of the proposed framework is demonstrated on a marble rolling 
 <img src="/images/projects/t2d2/t2d2_method.png" style="border-radius: 20px;">
 
 
+
+Project website: [{{ page.title }}]({{ page.website }})
+
+
+[Download paper here]({{page.paperurl}})
