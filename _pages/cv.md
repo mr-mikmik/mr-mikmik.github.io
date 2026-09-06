@@ -36,7 +36,13 @@ Work experience
    -->
 
 <ul class="tight-list">
-<li><strong>April 2025 - Present: Postdoctoral Researcher</strong>
+<li><strong>September 2026 - Present: Senior Researcher</strong>
+    <ul>
+      <li>Samsung Research America <a href="https://research.samsung.com">SRA</a></li>
+    </ul>
+  </li>
+
+  <li><strong>April 2025 - August 2026: Postdoctoral Researcher</strong>
     <ul>
       <li>University of Michigan, Ann Arbor</li>
       <li>Manipulation and Mechanisms Intelligence Laboratory <a href="https://www.mmintlab.com">MMINT</a></li>
