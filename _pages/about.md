@@ -12,11 +12,11 @@ redirect_from:
 🔬 My research focuses on tactile-based manipulation, combining learning, optimization, and controls to enable robots to interact more intelligently and effectively with their environments.
 🎓 Excited to be approaching graduation (March 2025) and eager to explore opportunities to push the boundaries of AI, machine learning, and robotics! -->
 
-👨🏻‍💻 I'm currently a Senior Researcher at [Samsung Research America (SRA)](https://sra.samsung.com/). My current interests include **multi-modal perception** for robotics, **force-aware Vision-Language-Action (VLA) models** and **World-Action Models (WAMs)** for contact-rich manipulation, and **whole-body control (WBC)**. I completed my PhD in Robotics at the University of Michigan under the guidance of [Prof. Nima Fazeli](https://www.mmintlab.com/people/nima-fazeli/) in the [MMINT Lab](https://mmintlab.com).
+👨🏻‍💻 I'm currently a Senior Researcher at [Samsung Research America (SRA)](https://sra.samsung.com/). My current interests include **Multi-modal Perception** for robotics, **Force-aware Vision-Language-Action (VLA) models** and **World-Action Models (WAMs)** for contact-rich manipulation, and **Whole-Body Control (WBC)**. I completed my PhD in Robotics at the University of Michigan under the guidance of [Prof. Nima Fazeli](https://www.mmintlab.com/people/nima-fazeli/) in the [MMINT Lab](https://mmintlab.com).
 
 <!-- 🎓 Successfully defended my PhD in Robotics in March 2025. -->
 
-🔬 My research sits at the intersection of **manipulation** and **machine learning**, spanning **optimization**, **reinforcement learning**, **representation learning**, and **world modeling** — all aimed at enabling robots to interact with the physical world intelligently and dexterously.
+🔬 My research sits at the intersection of **manipulation** and **machine learning**, spanning **optimization**, **reinforcement learning**, **representation learning**, and **world modeling** — all aimed at enabling robots to interact with the physical world intelligently and dexterously. Check out my [publications](/publications/) for more!
 
 <!-- 🚀 I'm eager to explore new opportunities to continue advancing research at the intersection of AI, machine learning, and robotics — particularly in areas involving dexterous, contact-rich manipulation. -->
 🚀 Always excited to push the boundaries of dexterity, AI, and robotics — let's connect if you share the vision!
