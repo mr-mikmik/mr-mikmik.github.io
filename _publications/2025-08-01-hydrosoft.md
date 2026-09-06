@@ -3,8 +3,8 @@ title: "HydroSoft: Non-Holonomic Hydroelastic Models for Compliant Tactile Manip
 collection: publications
 permalink: /publication/2025-09-01-hydrosoft
 excerpt: 'Hydrosoft is a computationally efficient, path-dependent, and differentiable model for simulating and controlling soft, compliant robotic components in dexterous manipulation tasks.'
-date: 2025-09-01
-venue: 'Preprint'
+date: 2026-01-01
+venue: 'International Conference on Robotics and Automation (ICRA)'
 image: "/images/projects/cube_rotation.gif"
 paperurl: 'https://www.arxiv.org/abs/2509.13126'
 website: 'https://mr-mikmik.github.io/hydrosoft'
